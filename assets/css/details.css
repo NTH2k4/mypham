@@ -1,0 +1,36 @@
+.product-img {
+    max-width: 100%;
+    height: auto;
+}
+
+.price {
+    font-size: 1.5rem;
+    color: #ff0000;
+}
+
+.original-price {
+
+    color: #888;
+}
+
+.btn-add-to-cart {
+    background-color: #e74c3c;
+    color: #fff;
+}
+
+.btn-add-to-cart:hover {
+    background-color: #c0392b;
+}
+
+.description-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.description-list li {
+    margin-bottom: 10px;
+}
+
+.description-list strong {
+    font-weight: bold;
+}
